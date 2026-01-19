@@ -1,0 +1,16 @@
+Order_ID,Product,Category,Quantity,Price,Month
+1001,Notebook,Stationery,50,120,January
+1002,Laptop,Electronics,2,45000,January
+1003,Pen Set,Stationery,100,250,January
+1004,Mouse,Accessories,15,350,February
+1005,Keyboard,Accessories,12,800,February
+1006,Printer,Electronics,3,8500,February
+1007,Marker Set,Stationery,80,180,February
+1008,Headphones,Accessories,20,1200,March
+1009,USB Drive,Accessories,35,400,March
+1010,Scanner,Electronics,5,6500,March
+1011,Calculator,Stationery,40,350,April
+1012,Webcam,Accessories,8,2500,April
+1013,Tablet,Electronics,4,25000,April
+1014,File Folder,Stationery,120,150,April
+1015,Monitor,Electronics,6,12000,April
